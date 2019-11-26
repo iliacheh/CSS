@@ -1,0 +1,44 @@
+body{
+  color: #ffffff;
+  margin: 0 auto;
+  max-width: 480px;
+  background-color: #333333;
+  text-align: center;
+}
+
+button{
+  cursor: pointer;
+  text-decoration: none;
+  border: navajowhite;
+  background-color: lemonchiffon;
+}
+
+.content{
+  max-height: 300px;
+  overflow:scroll;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color:  rgb(36, 17, 54) rgb(29, 50, 65);
+}
+
+.main{
+  background-color: #22223a;
+}
+
+li{
+  text-align: left;
+  overflow: hidden;
+}
+
+header{
+  border-bottom: 1px solid #d5262c;
+}
+
+dd{
+  display: inline-block;
+}
+
+#test{
+  text-align: center;
+  border: 1px solid beige;
+}
